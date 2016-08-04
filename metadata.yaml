@@ -1,0 +1,36 @@
+_repo: Waifs-and-StraysPart-1_2295
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Henry, O.
+    alias: Porter, William Sidney
+    birthdate: 1862
+    deathdate: 1910
+    gutenberg_agent_id: '634'
+    url: http://www.gutenberg.org/2009/agents/634
+    wikipedia: http://en.wikipedia.org/wiki/O._Henry
+description: Title; Contents; The Red Roses of Tonia; Round the Circle; The Rubber
+  Plant's Story; Out of Nazareth; Confessions of a Humorist; The Sparrows in Madison
+  Square; Hearts and Hands; The Cactus; The Detective Detector; The Dog and the Playlet;
+  A Little Talk About Mobs; The Snow Man.
+gutenberg_issued: '2000-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2295'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: The red roses of Tonia -- Round the circle -- The rubber plant's
+  story -- Out of Nazareth -- Confessions of a humorist -- The sparrows in Madison
+  Square -- Hearts and hands -- The cactus -- The detective detector -- The dog and
+  the playlet -- A little talk about mobs -- The snow man.
+title: 'Waifs and Strays
+
+  Part 1'
+url: http://www.gutenberg.org/ebooks/2295
