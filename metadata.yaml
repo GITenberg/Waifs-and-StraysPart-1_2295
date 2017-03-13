@@ -1,5 +1,8 @@
 _repo: Waifs-and-StraysPart-1_2295
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Henry, O.
@@ -13,6 +16,8 @@ description: Title; Contents; The Red Roses of Tonia; Round the Circle; The Rubb
   Plant's Story; Out of Nazareth; Confessions of a Humorist; The Sparrows in Madison
   Square; Hearts and Hands; The Cactus; The Detective Detector; The Dog and the Playlet;
   A Little Talk About Mobs; The Snow Man.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2295#Waifs-and-StraysPart-1
 gutenberg_issued: '2000-08-01'
 gutenberg_type: Text
 identifiers:
